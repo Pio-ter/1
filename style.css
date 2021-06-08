@@ -6,3 +6,8 @@ body {
 h1{
     font-family: monospace;
 }
+.form{
+    margin-left: 40px;
+    background-color: bisque;
+    color:black;
+}
